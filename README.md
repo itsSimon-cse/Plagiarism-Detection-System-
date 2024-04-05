@@ -75,7 +75,7 @@ After installing the project and its dependencies, you're ready to run the appli
    This should open the homepage of the Plagiarism Detection System, where you can start using the application.
 
 ## Contributing
-We welcome contributions! Please read `CONTRIBUTING.md` for guidelines on how to contribute to this project.
+  We welcome contributions! Please read `CONTRIBUTING.md` for guidelines on how to contribute to this project.
 
 ## License
-This project is licensed under the MIT License - see the `LICENSE` file for details.
+by Me.
